@@ -22,7 +22,10 @@ Link to code github repo article or any proof of what you worked on
 **Today's Progress**: I finally figured out what I want to learn during the 100days of code, So this period I will be looking intensively into the JS Ecosystem and Design Architectures, Typescript, GraphQL and Building Microservices using Golang.
 
 
-### Day 0: October 15, 2019 (Example 2)
+### Day 1: November 19, 2019
+**Today's Progress**: Meteor MVC, learning how to build fullstack applications with Meteor
+**Challenges**: Some health issues today, is making coding a bit hard.
+
 
 #### (This is the format for the rapid log - delete me or comment me out)
 
