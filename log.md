@@ -21,13 +21,12 @@ Link to code github repo article or any proof of what you worked on
 
 **Today's Progress**: I finally figured out what I want to learn during the 100days of code, So this period I will be looking intensively into the JS Ecosystem and Design Architectures, Typescript, GraphQL and Building Microservices using Golang.
 
-
 ### Day 1: November 19, 2019
+
 **Today's Progress**: Meteor MVC, learning how to build fullstack applications with Meteor
 **Challenges**: Some health issues today, is making coding a bit hard.
 
+### Day 2: November 20, 2019
 
-#### (This is the format for the rapid log - delete me or comment me out)
-
-**Today's Progress**: I worked on learning Loops in javascript, and discovered the `for of` method, the syntax was a bit different, but I managed to figure out its usage.
-**Link(s) to work**: [Github Repo](http://www.github.com)
+**Today's Progress**: Did some practice writing components using functions in react, plus some OSS contributions to the react-aria-offcanvas
+**Link(s) to work**: [React Aria Offcanvas](https://github.com/neosiae/react-aria-offcanvas)
