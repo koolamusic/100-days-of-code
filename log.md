@@ -30,3 +30,12 @@ Link to code github repo article or any proof of what you worked on
 
 **Today's Progress**: Did some practice writing components using functions in react, plus some OSS contributions to the react-aria-offcanvas
 **Link(s) to work**: [React Aria Offcanvas](https://github.com/neosiae/react-aria-offcanvas)
+
+### Day 3: November 30th, 2019
+
+**Today's Progress**: It's almost 10 days since I wrote code towards these goals, feels refreshing
+**Link to Work**: [INSIGHTS](https://github.com/koolamusic/insights)
+
+### Day 4: December 1, 2019
+
+**Today's Progress**: Writing code in react & flow for the insights analytic app, challenging at first, beginning to get the hang of it and today i learnt about redux selectors.
