@@ -39,3 +39,9 @@ Link to code github repo article or any proof of what you worked on
 ### Day 4: December 1, 2019
 
 **Today's Progress**: Writing code in react & flow for the insights analytic app, challenging at first, beginning to get the hang of it and today i learnt about redux selectors.
+
+### Day 5: December 2, 2019
+
+**Today's Progress**: Write a Node certificate generator for the Naijahacks Hackathon, learnt various ways to triage through yml and csv files in node.
+**Link to Work**: [CERT GENERATOR](https://njhacks-cert.herokuapp.com)
+**Github Repo**: [Conference Badges](https://github.com/naijahacks/certificate-generator/)
