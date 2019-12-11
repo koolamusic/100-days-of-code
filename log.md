@@ -45,3 +45,11 @@ Link to code github repo article or any proof of what you worked on
 **Today's Progress**: Write a Node certificate generator for the Naijahacks Hackathon, learnt various ways to triage through yml and csv files in node.
 **Link to Work**: [CERT GENERATOR](https://njhacks-cert.herokuapp.com)
 **Github Repo**: [Conference Badges](https://github.com/naijahacks/certificate-generator/)
+
+### Day 4: December 3, 2019
+
+**Today's Progress**: More reactJS 
+
+### Day 5-12: December 11, 2019
+
+**Today's Progress**: **O.O.O** due to health concerns, seem to be struggling with this challenge currently and need to figure out a sustainable structure to work out the goals of this challenge. So far I've been able to follow up on meteor and would take up Typescript and Node in the coming weeks.
