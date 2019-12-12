@@ -53,3 +53,7 @@ Link to code github repo article or any proof of what you worked on
 ### Day 5-12: December 11, 2019
 
 **Today's Progress**: **O.O.O** due to health concerns, seem to be struggling with this challenge currently and need to figure out a sustainable structure to work out the goals of this challenge. So far I've been able to follow up on meteor and would take up Typescript and Node in the coming weeks.
+
+### Day 13: December 12, 2019
+
+**Today's Progress:** Finished up Meteor and testing meteor apps, covered user and accounts API, looking to build my own layer of authentication on top of react using the Accounts API.
