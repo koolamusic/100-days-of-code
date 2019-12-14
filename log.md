@@ -58,7 +58,7 @@ Link to code github repo article or any proof of what you worked on
 
 **Today's Progress:** Finished up Meteor and testing meteor apps, covered user and accounts API, looking to build my own layer of authentication on top of react using the Accounts API.
 
-### Day 13: December 13, 2019
+### Day 14: December 13, 2019
 
 **Today's Progress:** Practice Functional Programming while writing methods for my app, emphasis on currying, composition, closures and partial application.
 
