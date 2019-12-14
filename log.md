@@ -63,3 +63,7 @@ Link to code github repo article or any proof of what you worked on
 **Today's Progress:** Practice Functional Programming while writing methods for my app, emphasis on currying, composition, closures and partial application.
 
 **Challenges:** Partial application, currying and fn composition all seem alike while implementing them, it's really hard to tell the difference between all approaches, even when the code works
+
+### Day 15: December 14, 2019
+
+**Today's Progress:** Weekend practice to build a mini project based on my learnings so far. Started working on a recipe sharing app.
